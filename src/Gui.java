@@ -11,7 +11,7 @@ public class Gui extends JFrame {
 	private String answer;
 
 	public Gui() {
-		super("JUnitConverter");
+		super("JTemperatureConverter");
 		setLayout(new FlowLayout());
 
 		input = new JTextField(10);
